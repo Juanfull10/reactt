@@ -1,0 +1,13 @@
+html,body{
+    padding: 70px;
+    font-size: 1.rem;
+    font-family:Arial,sans-serif;
+    color:white;
+    background-color: #21232A;
+}
+ 
+button{
+    padding: 15px;
+    font-size: 1,3rem;
+    margin-right: 5px;
+}
