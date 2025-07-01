@@ -40,5 +40,13 @@ Explora custom hooks y navegación dinámica. Incluye componentes reutilizables,
 ![Hook App](https://github.com/user-attachments/assets/d0c1bb97-cb6a-418c-9b6a-bda9ea128426)
 
 ---
+###🦸‍♂️ 07 - Heroes SPA
+Aplicación de superhéroes desarrollada con React. Permite realizar búsquedas dinámicas de héroes tanto de DC como de Marvel. Implementa rutas protegidas con React Router, navegación entre vistas, y almacenamiento en localStorage del último héroe visitado.
+![image](https://github.com/user-attachments/assets/74d1feb6-25db-43d3-b843-855a3a8f0849)
+![image](https://github.com/user-attachments/assets/9ac32503-f88c-4581-916c-4c6d4c0916e3)
+![image](https://github.com/user-attachments/assets/1e67013c-1196-4cab-9cd8-08ff20fe1404)
+
+
+
 
 
